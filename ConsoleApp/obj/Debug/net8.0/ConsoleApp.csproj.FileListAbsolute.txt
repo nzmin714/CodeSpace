@@ -1,0 +1,15 @@
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/minhancho/Projects/CodeSpace/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
